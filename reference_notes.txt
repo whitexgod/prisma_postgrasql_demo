@@ -1,0 +1,5 @@
+npm i --save-dev prisma typescript ts-node @types/node nodemon basic installs
+npx prisma init to create prisma folder and schema 
+npx prisma migrate dev --name init, this is to be done when new schema is made or changed
+npm i @prisma/client to install prisma client lib
+npx prisma generate
